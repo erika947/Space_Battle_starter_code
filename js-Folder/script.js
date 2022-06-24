@@ -10,4 +10,6 @@
 //when all enemies are defeated show a 'You Win!' screen 
 //suggestion: maybe see if a restart option for when you when the game
 //if you lose show a 'You Were Defeated' and 'Try Again?'
-//      
+//if the player takes damage but defeats the enemy and chooses to continue then the players health will not heal 
+//Hull is defined as the ship's body
+//
