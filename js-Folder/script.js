@@ -9,6 +9,8 @@
 // //if the player takes damage but defeats the enemy and chooses to continue then the players health will not heal 
 // //Hull is also the health
 // //
+
+
 // prompt('Welcome!' ,'ENTER TO JOIN THE BATTLE')
 // class Ship {
 //     constructor(hull, firepower, accuracy, iSurived){
